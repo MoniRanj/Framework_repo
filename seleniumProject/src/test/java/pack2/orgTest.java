@@ -6,6 +6,7 @@ public class orgTest {
 	@Test
 	public void createorgTest()
 	{
+		System.out.println("Hi");
 		System.out.println("execute createorgTest");
 	}
 	@Test
